@@ -3,7 +3,7 @@
 #     ABSTRACT:  run command line script to provide version number
 # DERIVED FROM:  Dist::Zilla::Plugin::AutoVersion by Ricardo SIGNES <rjbs@cpan.org>
 #       AUTHOR:  Reid Augustin (REID), <reid@lucidport.com>
-our $VERSION = '0.016'; #      VERSION:  1.0
+our $VERSION = '0.017'; #      VERSION:  1.0
 #      CREATED:  12/02/2010 08:51:22 AM PST
 #===============================================================================
 
@@ -19,7 +19,7 @@ with(
   'Dist::Zilla::Role::TextTemplate',
 );
 
-our $VERSION = '0.016'; # VERSION
+our $VERSION = '0.017'; # VERSION
 
 has script => (
   is       => 'ro',
@@ -53,7 +53,7 @@ Dist::Zilla::Plugin::VersionFromScript - run command line script to provide vers
 
 =head1 VERSION
 
-version 0.016
+version 0.017
 
 =head1 DESCRIPTION
 

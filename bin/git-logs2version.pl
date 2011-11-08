@@ -14,7 +14,7 @@ use warnings;
 
 use File::Basename;
 
-our $VERSION = '0.016'; # VERSION
+our $VERSION = '0.017'; # VERSION
 
 my $major = 0;
 my $offset = 0;
@@ -81,7 +81,7 @@ git-logs2version.pl - use number of git log messages as a standin for version nu
 
 =head1 VERSION
 
-version 0.016
+version 0.017
 
 =head1 AUTHOR
 

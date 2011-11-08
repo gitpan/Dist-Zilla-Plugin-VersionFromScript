@@ -14,7 +14,7 @@ use warnings;
 
 use File::Basename;
 
-our $VERSION = '0.016'; # VERSION
+our $VERSION = '0.017'; # VERSION
 
 my $major = 0;
 my $offset = 0;
@@ -75,7 +75,7 @@ svnversion.pl - munge svnversion output to be suitable for a real version number
 
 =head1 VERSION
 
-version 0.016
+version 0.017
 
 =head1 AUTHOR
 
